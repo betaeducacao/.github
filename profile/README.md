@@ -4,4 +4,4 @@ Somos uma empresa do mercado de Segurança do trabalho que utiliza a tecnologia 
 
 Esse espaço é exclusivamente focado em documenção de como interagir com a plataforma da Beta Educação.
 
-Estamos em constante evolução, por tanto, sinta-se livre para tirar dúvida, sergio@somosbeta.com.br
+Estamos em constante evolução, por tanto, sinta-se livre para tirar dúvidas, sergio@somosbeta.com.br
