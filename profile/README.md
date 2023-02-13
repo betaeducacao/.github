@@ -1,6 +1,6 @@
 # Beta Educação
 
-Somos uma empresa de ensino com foco em segurança do trabalho que utiliza a tecnologia para trazer benefícios que agrege a vida, com qualidade, agilidade e dinâmica no aprendizado do conteúdo de segurança.
+Somos uma empresa de ensino com foco em segurança do trabalho que utiliza a tecnologia para trazer benefícios que agrege a vida das pessoas, com qualidade, agilidade e dinâmica na didática de ensino.
 
 Esse espaço é exclusivamente focado em documenção técnica de como interagir com a plataforma da Beta Educação.
 
