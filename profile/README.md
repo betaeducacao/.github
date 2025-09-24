@@ -1,4 +1,4 @@
-# Beta Educação
+# Beta Educação agora é EDUSEG
 
 Somos uma empresa de ensino com foco em segurança do trabalho que utiliza a tecnologia para trazer benefícios que agrege a vida das pessoas, com qualidade, agilidade e dinâmica na didática de ensino.
 
